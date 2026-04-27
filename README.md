@@ -1,2 +1,8 @@
-# SI-Periodo-1
-Este repositório é para praticar os estudos do primeiro período.
+# SI-Periodo-1 
+
+Repositório central para os exercícios e projetos do 1º período de **Sistemas de Informação**.
+
+## Matérias
+- **Algoritmos e Lógica de Programação:** Exercícios em C# focados em fundamentos.
+
+---

@@ -2,6 +2,7 @@ using System;
 
 namespace SIPeriodo1.AlgoritmosELogica.Slide54 {
     class Slide54 {
+        //Neste exemplo é só um exemplo de atribuição de valores às variáveis, e também o cálculo do IMC.
         public static void Main (string[] args) {
             int idade;
             double altura, peso, copiaPeso, IMC;

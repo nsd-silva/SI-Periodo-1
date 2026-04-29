@@ -1,4 +1,4 @@
-# SI-Periodo-1 
+# Sistemas de Informação - 1° Período 
 
 Repositório central para os exercícios e projetos do 1º período de **Sistemas de Informação**.
 
